@@ -1,0 +1,30 @@
+body{
+    margin: 20px;
+    padding: 10px;
+}
+.mide{
+    background-color: aqua;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+      height: 700px;
+   width: 700px;
+   box-sizing: border-box 1px solid;
+}
+.mypic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 40px;
+ 
+}
+.titi{
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+}
+.bottomclass{
+    margin-top: 200px;
+}
+
+
